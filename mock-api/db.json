@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Aarav Mehta",
+      "email": "aarav.mehta@example.com",
+      "role": "Product Designer",
+      "department": "Design",
+      "location": "Mumbai, India",
+      "bio": "Turns complex ideas into clear, thoughtful experiences."
+    },
+    {
+      "id": 2,
+      "name": "Maya Patel",
+      "email": "maya.patel@example.com",
+      "role": "Frontend Engineer",
+      "department": "Engineering",
+      "location": "Ahmedabad, India",
+      "bio": "Builds accessible interfaces and enjoys mentoring new developers."
+    },
+    {
+      "id": 3,
+      "name": "Ishaan Kapoor",
+      "email": "ishaan.kapoor@example.com",
+      "role": "Research Analyst",
+      "department": "Research",
+      "location": "Delhi, India",
+      "bio": "Finds useful patterns in data and makes the results easy to understand."
+    },
+    {
+      "id": 4,
+      "name": "Nisha Rao",
+      "email": "nisha.rao@example.com",
+      "role": "Customer Success Lead",
+      "department": "Customer Success",
+      "location": "Bengaluru, India",
+      "bio": "Helps teams get lasting value from the tools they use every day."
+    },
+    {
+      "id": 5,
+      "name": "Kabir Shah",
+      "email": "kabir.shah@example.com",
+      "role": "Data Engineer",
+      "department": "Engineering",
+      "location": "Pune, India",
+      "bio": "Designs reliable data systems and keeps learning about distributed computing."
+    },
+    {
+      "id": 6,
+      "name": "Ananya Sen",
+      "email": "ananya.sen@example.com",
+      "role": "Content Strategist",
+      "department": "Marketing",
+      "location": "Kolkata, India",
+      "bio": "Makes product stories useful, direct, and easy to follow."
+    },
+    {
+      "id": 7,
+      "name": "Rohan Desai",
+      "email": "rohan.desai@example.com",
+      "role": "Security Engineer",
+      "department": "Engineering",
+      "location": "Hyderabad, India",
+      "bio": "Works with product teams to build safer systems from the start."
+    },
+    {
+      "id": 8,
+      "name": "Priya Nair",
+      "email": "priya.nair@example.com",
+      "role": "People Operations Partner",
+      "department": "People",
+      "location": "Chennai, India",
+      "bio": "Creates inclusive programs that help people do their best work."
+    }
+  ],
+  "circle": [
+    {
+      "userId": 6,
+      "addedAt": "2026-11-23T10:12:49.640Z",
+      "id": 6
+    },
+    {
+      "userId": 8,
+      "addedAt": "2026-11-23T10:12:33.502Z",
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "addedAt": "2026-11-23T10:21:54.533Z",
+      "id": 9
+    }
+  ]
+}
